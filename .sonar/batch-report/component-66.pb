@@ -1,0 +1,1 @@
+B>vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php 2phpXE

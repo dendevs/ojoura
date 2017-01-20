@@ -1,0 +1,1 @@
+R;vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php 2phpXË

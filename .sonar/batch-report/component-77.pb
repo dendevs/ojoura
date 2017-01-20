@@ -1,0 +1,1 @@
+M=vendor/monolog/monolog/src/Monolog/Handler/RollbarHandler.php 2phpX„

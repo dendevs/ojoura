@@ -1,0 +1,1 @@
+X<vendor/monolog/monolog/src/Monolog/Handler/SyslogHandler.php 2phpXD

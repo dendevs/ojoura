@@ -1,0 +1,1 @@
+8>vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php 2phpX€

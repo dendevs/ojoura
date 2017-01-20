@@ -1,0 +1,1 @@
+xHvendor/monolog/monolog/tests/Monolog/Formatter/LogstashFormatterTest.php 2phpXÎ

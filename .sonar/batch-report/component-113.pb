@@ -1,0 +1,1 @@
+qHvendor/monolog/monolog/tests/Monolog/Formatter/ElasticaFormatterTest.php 2phpXP
