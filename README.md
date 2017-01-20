@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ojoura
+
+Un wp orienté objet, modulaire et automatisé.
 
 You can use the [editor on GitHub](https://github.com/dendevs/ojoura/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
