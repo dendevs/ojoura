@@ -1,1 +1,0 @@
->vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php 2phpX°

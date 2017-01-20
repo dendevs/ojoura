@@ -1,1 +1,0 @@
-@vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php 2phpX0

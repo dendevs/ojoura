@@ -1,1 +1,0 @@
-Cvendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php 2phpX%

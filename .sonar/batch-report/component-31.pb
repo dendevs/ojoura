@@ -1,1 +1,0 @@
-*vendor/monolog/monolog/src/Monolog/Handler :5 !"#$%&'(+,-./056789:;<=>?@ABCDEFGHIJKLMNORSTUVWX[\]^

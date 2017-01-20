@@ -1,1 +1,0 @@
-F>vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php 2phpXË

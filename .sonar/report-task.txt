@@ -1,5 +1,0 @@
-projectKey=ojoura
-serverUrl=https://sonarqube.com
-dashboardUrl=https://sonarqube.com/dashboard/index/ojoura
-ceTaskId=AVm8P6UGi8mRK0k0gGDu
-ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVm8P6UGi8mRK0k0gGDu

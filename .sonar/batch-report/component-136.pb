@@ -1,1 +1,0 @@
-ˆIvendor/monolog/monolog/tests/Monolog/Handler/ElasticSearchHandlerTest.php 2phpXð

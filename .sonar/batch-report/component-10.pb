@@ -1,2 +1,0 @@
-
-!vendor/composer/autoload_psr4.php 2phpX

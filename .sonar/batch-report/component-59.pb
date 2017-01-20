@@ -1,1 +1,0 @@
-;?vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php 2phpX[

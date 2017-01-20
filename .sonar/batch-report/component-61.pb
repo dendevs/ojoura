@@ -1,1 +1,0 @@
-==vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php 2phpXß

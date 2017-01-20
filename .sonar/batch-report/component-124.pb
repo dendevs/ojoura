@@ -1,1 +1,0 @@
-|Hvendor/monolog/monolog/tests/Monolog/Formatter/WildfireFormatterTest.php 2phpXè
