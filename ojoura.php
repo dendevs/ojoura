@@ -14,8 +14,14 @@ Domain Path: /languages
 require_once 'vendor/autoload.php';
 
 
-// log
+function codex_custom_init() {
+			$args = array(
+				'public' => true,
+				'label'  => 'Plante'
+			);
+			register_post_type( 'plante', $args );
+		}
+		add_action( 'init', 'codex_custom_init' );
 
-// test unitaire
 
 ?>
